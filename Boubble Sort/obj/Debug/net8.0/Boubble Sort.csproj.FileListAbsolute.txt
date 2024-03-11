@@ -1,0 +1,14 @@
+C:\Users\MSI-FL\Documents\Proyects\Net\Algoritmos\Boubble Sort\bin\Debug\net8.0\Boubble Sort.exe
+C:\Users\MSI-FL\Documents\Proyects\Net\Algoritmos\Boubble Sort\bin\Debug\net8.0\Boubble Sort.deps.json
+C:\Users\MSI-FL\Documents\Proyects\Net\Algoritmos\Boubble Sort\bin\Debug\net8.0\Boubble Sort.runtimeconfig.json
+C:\Users\MSI-FL\Documents\Proyects\Net\Algoritmos\Boubble Sort\bin\Debug\net8.0\Boubble Sort.dll
+C:\Users\MSI-FL\Documents\Proyects\Net\Algoritmos\Boubble Sort\bin\Debug\net8.0\Boubble Sort.pdb
+C:\Users\MSI-FL\Documents\Proyects\Net\Algoritmos\Boubble Sort\obj\Debug\net8.0\Boubble Sort.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\MSI-FL\Documents\Proyects\Net\Algoritmos\Boubble Sort\obj\Debug\net8.0\Boubble Sort.AssemblyInfoInputs.cache
+C:\Users\MSI-FL\Documents\Proyects\Net\Algoritmos\Boubble Sort\obj\Debug\net8.0\Boubble Sort.AssemblyInfo.cs
+C:\Users\MSI-FL\Documents\Proyects\Net\Algoritmos\Boubble Sort\obj\Debug\net8.0\Boubble Sort.csproj.CoreCompileInputs.cache
+C:\Users\MSI-FL\Documents\Proyects\Net\Algoritmos\Boubble Sort\obj\Debug\net8.0\Boubble Sort.dll
+C:\Users\MSI-FL\Documents\Proyects\Net\Algoritmos\Boubble Sort\obj\Debug\net8.0\refint\Boubble Sort.dll
+C:\Users\MSI-FL\Documents\Proyects\Net\Algoritmos\Boubble Sort\obj\Debug\net8.0\Boubble Sort.pdb
+C:\Users\MSI-FL\Documents\Proyects\Net\Algoritmos\Boubble Sort\obj\Debug\net8.0\Boubble Sort.genruntimeconfig.cache
+C:\Users\MSI-FL\Documents\Proyects\Net\Algoritmos\Boubble Sort\obj\Debug\net8.0\ref\Boubble Sort.dll

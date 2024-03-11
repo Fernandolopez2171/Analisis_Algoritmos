@@ -1,0 +1,14 @@
+C:\Users\MSI-FL\Documents\Proyects\Net\Algoritmos\Merge_Sort\bin\Debug\net8.0\Merge_Sort.exe
+C:\Users\MSI-FL\Documents\Proyects\Net\Algoritmos\Merge_Sort\bin\Debug\net8.0\Merge_Sort.deps.json
+C:\Users\MSI-FL\Documents\Proyects\Net\Algoritmos\Merge_Sort\bin\Debug\net8.0\Merge_Sort.runtimeconfig.json
+C:\Users\MSI-FL\Documents\Proyects\Net\Algoritmos\Merge_Sort\bin\Debug\net8.0\Merge_Sort.dll
+C:\Users\MSI-FL\Documents\Proyects\Net\Algoritmos\Merge_Sort\bin\Debug\net8.0\Merge_Sort.pdb
+C:\Users\MSI-FL\Documents\Proyects\Net\Algoritmos\Merge_Sort\obj\Debug\net8.0\Merge_Sort.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\MSI-FL\Documents\Proyects\Net\Algoritmos\Merge_Sort\obj\Debug\net8.0\Merge_Sort.AssemblyInfoInputs.cache
+C:\Users\MSI-FL\Documents\Proyects\Net\Algoritmos\Merge_Sort\obj\Debug\net8.0\Merge_Sort.AssemblyInfo.cs
+C:\Users\MSI-FL\Documents\Proyects\Net\Algoritmos\Merge_Sort\obj\Debug\net8.0\Merge_Sort.csproj.CoreCompileInputs.cache
+C:\Users\MSI-FL\Documents\Proyects\Net\Algoritmos\Merge_Sort\obj\Debug\net8.0\Merge_Sort.dll
+C:\Users\MSI-FL\Documents\Proyects\Net\Algoritmos\Merge_Sort\obj\Debug\net8.0\refint\Merge_Sort.dll
+C:\Users\MSI-FL\Documents\Proyects\Net\Algoritmos\Merge_Sort\obj\Debug\net8.0\Merge_Sort.pdb
+C:\Users\MSI-FL\Documents\Proyects\Net\Algoritmos\Merge_Sort\obj\Debug\net8.0\Merge_Sort.genruntimeconfig.cache
+C:\Users\MSI-FL\Documents\Proyects\Net\Algoritmos\Merge_Sort\obj\Debug\net8.0\ref\Merge_Sort.dll

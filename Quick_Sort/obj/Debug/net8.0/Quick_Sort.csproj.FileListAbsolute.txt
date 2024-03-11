@@ -1,0 +1,14 @@
+C:\Users\MSI-FL\Documents\Proyects\Net\Algoritmos\Quick_Sort\bin\Debug\net8.0\Quick_Sort.exe
+C:\Users\MSI-FL\Documents\Proyects\Net\Algoritmos\Quick_Sort\bin\Debug\net8.0\Quick_Sort.deps.json
+C:\Users\MSI-FL\Documents\Proyects\Net\Algoritmos\Quick_Sort\bin\Debug\net8.0\Quick_Sort.runtimeconfig.json
+C:\Users\MSI-FL\Documents\Proyects\Net\Algoritmos\Quick_Sort\bin\Debug\net8.0\Quick_Sort.dll
+C:\Users\MSI-FL\Documents\Proyects\Net\Algoritmos\Quick_Sort\bin\Debug\net8.0\Quick_Sort.pdb
+C:\Users\MSI-FL\Documents\Proyects\Net\Algoritmos\Quick_Sort\obj\Debug\net8.0\Quick_Sort.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\MSI-FL\Documents\Proyects\Net\Algoritmos\Quick_Sort\obj\Debug\net8.0\Quick_Sort.AssemblyInfoInputs.cache
+C:\Users\MSI-FL\Documents\Proyects\Net\Algoritmos\Quick_Sort\obj\Debug\net8.0\Quick_Sort.AssemblyInfo.cs
+C:\Users\MSI-FL\Documents\Proyects\Net\Algoritmos\Quick_Sort\obj\Debug\net8.0\Quick_Sort.csproj.CoreCompileInputs.cache
+C:\Users\MSI-FL\Documents\Proyects\Net\Algoritmos\Quick_Sort\obj\Debug\net8.0\Quick_Sort.dll
+C:\Users\MSI-FL\Documents\Proyects\Net\Algoritmos\Quick_Sort\obj\Debug\net8.0\refint\Quick_Sort.dll
+C:\Users\MSI-FL\Documents\Proyects\Net\Algoritmos\Quick_Sort\obj\Debug\net8.0\Quick_Sort.pdb
+C:\Users\MSI-FL\Documents\Proyects\Net\Algoritmos\Quick_Sort\obj\Debug\net8.0\Quick_Sort.genruntimeconfig.cache
+C:\Users\MSI-FL\Documents\Proyects\Net\Algoritmos\Quick_Sort\obj\Debug\net8.0\ref\Quick_Sort.dll
