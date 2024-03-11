@@ -12,3 +12,4 @@ C:\Users\MSI-FL\Documents\Proyects\Net\Algoritmos\Merge_Sort\obj\Debug\net8.0\re
 C:\Users\MSI-FL\Documents\Proyects\Net\Algoritmos\Merge_Sort\obj\Debug\net8.0\Merge_Sort.pdb
 C:\Users\MSI-FL\Documents\Proyects\Net\Algoritmos\Merge_Sort\obj\Debug\net8.0\Merge_Sort.genruntimeconfig.cache
 C:\Users\MSI-FL\Documents\Proyects\Net\Algoritmos\Merge_Sort\obj\Debug\net8.0\ref\Merge_Sort.dll
+C:\Users\MSI-FL\Documents\Proyects\Net\Algoritmos\Merge_Sort\obj\Debug\net8.0\Merge_Sort.sourcelink.json

@@ -12,3 +12,4 @@ C:\Users\MSI-FL\Documents\Proyects\Net\Algoritmos\Heap_Sort\obj\Debug\net8.0\ref
 C:\Users\MSI-FL\Documents\Proyects\Net\Algoritmos\Heap_Sort\obj\Debug\net8.0\Heap_Sort.pdb
 C:\Users\MSI-FL\Documents\Proyects\Net\Algoritmos\Heap_Sort\obj\Debug\net8.0\Heap_Sort.genruntimeconfig.cache
 C:\Users\MSI-FL\Documents\Proyects\Net\Algoritmos\Heap_Sort\obj\Debug\net8.0\ref\Heap_Sort.dll
+C:\Users\MSI-FL\Documents\Proyects\Net\Algoritmos\Heap_Sort\obj\Debug\net8.0\Heap_Sort.sourcelink.json

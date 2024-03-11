@@ -12,3 +12,4 @@ C:\Users\MSI-FL\Documents\Proyects\Net\Algoritmos\Selection_Sort\obj\Debug\net8.
 C:\Users\MSI-FL\Documents\Proyects\Net\Algoritmos\Selection_Sort\obj\Debug\net8.0\Selection_Sort.pdb
 C:\Users\MSI-FL\Documents\Proyects\Net\Algoritmos\Selection_Sort\obj\Debug\net8.0\Selection_Sort.genruntimeconfig.cache
 C:\Users\MSI-FL\Documents\Proyects\Net\Algoritmos\Selection_Sort\obj\Debug\net8.0\ref\Selection_Sort.dll
+C:\Users\MSI-FL\Documents\Proyects\Net\Algoritmos\Selection_Sort\obj\Debug\net8.0\Selection_Sort.sourcelink.json

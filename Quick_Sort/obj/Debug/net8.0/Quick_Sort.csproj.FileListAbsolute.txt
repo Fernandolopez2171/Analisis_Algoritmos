@@ -12,3 +12,4 @@ C:\Users\MSI-FL\Documents\Proyects\Net\Algoritmos\Quick_Sort\obj\Debug\net8.0\re
 C:\Users\MSI-FL\Documents\Proyects\Net\Algoritmos\Quick_Sort\obj\Debug\net8.0\Quick_Sort.pdb
 C:\Users\MSI-FL\Documents\Proyects\Net\Algoritmos\Quick_Sort\obj\Debug\net8.0\Quick_Sort.genruntimeconfig.cache
 C:\Users\MSI-FL\Documents\Proyects\Net\Algoritmos\Quick_Sort\obj\Debug\net8.0\ref\Quick_Sort.dll
+C:\Users\MSI-FL\Documents\Proyects\Net\Algoritmos\Quick_Sort\obj\Debug\net8.0\Quick_Sort.sourcelink.json

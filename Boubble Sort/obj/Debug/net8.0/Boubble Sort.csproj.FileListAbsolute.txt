@@ -12,3 +12,4 @@ C:\Users\MSI-FL\Documents\Proyects\Net\Algoritmos\Boubble Sort\obj\Debug\net8.0\
 C:\Users\MSI-FL\Documents\Proyects\Net\Algoritmos\Boubble Sort\obj\Debug\net8.0\Boubble Sort.pdb
 C:\Users\MSI-FL\Documents\Proyects\Net\Algoritmos\Boubble Sort\obj\Debug\net8.0\Boubble Sort.genruntimeconfig.cache
 C:\Users\MSI-FL\Documents\Proyects\Net\Algoritmos\Boubble Sort\obj\Debug\net8.0\ref\Boubble Sort.dll
+C:\Users\MSI-FL\Documents\Proyects\Net\Algoritmos\Boubble Sort\obj\Debug\net8.0\Boubble Sort.sourcelink.json

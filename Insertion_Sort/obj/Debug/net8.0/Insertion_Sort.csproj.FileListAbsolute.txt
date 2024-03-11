@@ -12,3 +12,4 @@ C:\Users\MSI-FL\Documents\Proyects\Net\Algoritmos\Insertion_Sort\obj\Debug\net8.
 C:\Users\MSI-FL\Documents\Proyects\Net\Algoritmos\Insertion_Sort\obj\Debug\net8.0\Insertion_Sort.pdb
 C:\Users\MSI-FL\Documents\Proyects\Net\Algoritmos\Insertion_Sort\obj\Debug\net8.0\Insertion_Sort.genruntimeconfig.cache
 C:\Users\MSI-FL\Documents\Proyects\Net\Algoritmos\Insertion_Sort\obj\Debug\net8.0\ref\Insertion_Sort.dll
+C:\Users\MSI-FL\Documents\Proyects\Net\Algoritmos\Insertion_Sort\obj\Debug\net8.0\Insertion_Sort.sourcelink.json
